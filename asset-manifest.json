@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/react-workflow-gh-actions/static/css/main.5f361e03.chunk.css",
+    "main.js": "/react-workflow-gh-actions/static/js/main.3aa899c8.chunk.js",
+    "main.js.map": "/react-workflow-gh-actions/static/js/main.3aa899c8.chunk.js.map",
+    "runtime-main.js": "/react-workflow-gh-actions/static/js/runtime-main.4b5a5e15.js",
+    "runtime-main.js.map": "/react-workflow-gh-actions/static/js/runtime-main.4b5a5e15.js.map",
+    "static/js/2.cda0fc8a.chunk.js": "/react-workflow-gh-actions/static/js/2.cda0fc8a.chunk.js",
+    "static/js/2.cda0fc8a.chunk.js.map": "/react-workflow-gh-actions/static/js/2.cda0fc8a.chunk.js.map",
+    "index.html": "/react-workflow-gh-actions/index.html",
+    "precache-manifest.10fbc4530f1f29255a3e9be763b24e78.js": "/react-workflow-gh-actions/precache-manifest.10fbc4530f1f29255a3e9be763b24e78.js",
+    "service-worker.js": "/react-workflow-gh-actions/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/react-workflow-gh-actions/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.cda0fc8a.chunk.js.LICENSE.txt": "/react-workflow-gh-actions/static/js/2.cda0fc8a.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/react-workflow-gh-actions/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4b5a5e15.js",
+    "static/js/2.cda0fc8a.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.3aa899c8.chunk.js"
+  ]
+}
